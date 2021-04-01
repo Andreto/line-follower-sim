@@ -1,0 +1,9 @@
+#line-svg-object {
+    background: #eee;
+}
+
+#follow-line {
+    stroke: #317FE3;
+    stroke-width: 5px;
+    fill: none;
+}
